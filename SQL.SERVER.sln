@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL1", "SQL1", "{53D9CC06-67B2-4CE7-8173-B53F3ABDDDED}"
+	ProjectSection(SolutionItems) = preProject
+		SqlQuery_1.sql = SqlQuery_1.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB46DB1E-FCC7-46D6-8EC7-6B5359D97E57}
+	EndGlobalSection
+EndGlobal
